@@ -1,0 +1,12 @@
+.movies {
+    font-size: 1.3vw;
+    color: orangered;
+ }
+ 
+ h3 {
+    text-align: center;
+    color: green;
+ }
+ #movie-list{
+     color: lightcoral;
+ }

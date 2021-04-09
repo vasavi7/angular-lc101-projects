@@ -1,0 +1,13 @@
+.chores {
+    color: orangered;
+    font-size: 1.3vw;
+ }
+ 
+ h3 {
+    font-style: inherit;
+    text-decoration: underline;
+    color: purple;
+ }
+ li{
+     font-style: italic;
+ }
